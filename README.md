@@ -67,6 +67,9 @@ https://bittube.slack.com/shared_invite/MTQ5MTE2MjEyMTMwLTE0ODg1MDY3MjEtYTFhMjlm
 ![img-thing](https://cloud.githubusercontent.com/assets/13579802/23485457/72d900b4-fea9-11e6-81f2-984e82b34fd2.jpg)
 
 
+[Yes we do!](https://github.com/DaGitNah/BitTube/blob/master/Contributor%20Covenant%20Code%20of%20Conduct)
+
+
 # So what License does BitTube all under? 
 
 We are under MIT License
